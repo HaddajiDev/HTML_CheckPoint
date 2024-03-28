@@ -1,0 +1,13 @@
+.Div_1 h1 {
+    color: red;
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.Div_1 p {
+    letter-spacing: 4px;
+    word-spacing: 4px;
+}
