@@ -18,3 +18,5 @@ var color = document.getElementById("color");
 color.addEventListener("input", function() {
     title.style.backgroundColor = color.value;
 })
+
+//Hello
